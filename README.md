@@ -68,7 +68,7 @@ The Repository Pattern is a design pattern that separates the business logic of 
 
 - TestUserRepositoryImpl
 
-![img.png](img.png)
+![image](https://github.com/cesarmontealegre/Advanced-JavaWeb-Workshop-4/assets/84823972/0b3b526e-ced1-4e77-bd75-7d1947af6ad4)
 
 ## How to Run the Project
 
